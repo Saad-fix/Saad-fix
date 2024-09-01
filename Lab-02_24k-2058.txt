@@ -1,0 +1,81 @@
+Objective 2: pseudocode
+Task 02:
+Start
+Input number1
+Input number2
+Input number3
+Set sum to 0
+Set result to 0
+Set sum to -number1-number2-number3
+Set result to sum*-1
+Print result
+End
+
+
+
+
+
+
+
+Task 03:
+Start 
+Input number1
+Input number2
+Input operation “+ or – “
+Set sum to 0
+Set subtract to 0
+If operation is + then
+Set sum to number1 + number2
+Print sum
+Else 
+Set subtract to number1 - number2
+Print subtract
+End
+
+ 
+
+ 
+ 
+0bjective 3: Algorithm
+Task 01:
+Ask the user to enter number Nth
+Ask the user to enter number N
+Set D to (N/Nth)
+If D = 0 then
+Display Nth is a divisor of N number to the user
+Set E to (N /2)
+If E = 0 then
+Display N is even to the user
+Else display N is odd to the user
+Else display Nth is not a divisor of N to the user
+
+
+
+
+
+
+	
+Task 03:
+Ask the user to enter number1
+Ask the user to enter operation
+Ask the user to enter number2
+Set A to (number1 + number2)
+Set S to (number1 - number2)
+Set D to (number1 / number2)
+Set P to (number1 % number2)
+If operation = + then
+Display A for the user
+If operation = - then
+Display S for the user
+If operation = /, and, number2 =0 then
+Display undefine to the user
+Else Display D for the user
+If operation = %, and, number2 =0 then
+Display undefine to the user
+Else Display P for the user
+
+
+
+
+
+
